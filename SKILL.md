@@ -1,12 +1,10 @@
 ---
 name: imitation-game-evaluation
-description: Evaluate whether a system exhibits intelligent behavior by defining operational
-  criteria and testing against them - cutting through philosophical speculation to
-  practical assessment.
+description: Evaluate whether a system exhibits intelligent behavior by defining operational criteria and testing against them - cutting through philosophical speculation to practical assessment.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - escalation
 - imitation-game-evaluation
